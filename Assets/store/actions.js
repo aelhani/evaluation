@@ -14,9 +14,9 @@ export const mapDispatchToProps = (dispatch) => {
                 return dispatch({ type: 'LOGIN', value: { state: true, data: user } })
             } else {
                 Alert.alert(
-                    'Wrong information',
-                    'Please try again',
-                    [{ text: 'Dismiss' }],
+                    'Informations incorrectes',
+                    'Veuillez vérifier vos informations et réessayer',
+                    [{ text: 'Fermer' }],
                     { cancelable: false }
                 )
             }
