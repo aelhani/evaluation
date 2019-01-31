@@ -2,7 +2,8 @@
 # Evaluation - Application d’authentification de contact
 [Enoncé de l'evaluation](Evaluation%20Développeur%20Mobile.pdf)
 * * * *
-## Réalisée par Abderrazak ELHANI ( pour Kaoutar CHMARKH <kaoutar.chmarkh@socgen.com> )
+## Réalisée par Abderrazak ELHANI 
+[//] <> ( pour Kaoutar CHMARKH <kaoutar.chmarkh@socgen.com> )
 ## React Native Specialist
 ## https://www.linkedin.com/in/elhani
 ## (+212) 653 68 65 68
